@@ -11,7 +11,3 @@ db.sqlite3
 media
 
 
-# Elastic Beanstalk Files
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml    # eb config save file
-!.elasticbeanstalk/*.global.yml # eb environment setting file
